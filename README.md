@@ -12,8 +12,8 @@ Example: If you need to have a database nested inside another database.
 ## Notes
 When setting up the core data entities, the following changes were made in the inspector panel.
 
+1) Author > Codegen: Manual/None
 <img src="Screenshots/01-codegen.png">
-- Author > Codegen: Manual/None
 
+2) Author > authorToBook > Type: To Many
 <img src="Screenshots/02-type.png">
-- Author > authorToBook > Type: To Many
